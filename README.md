@@ -1,50 +1,50 @@
 # Privacy Policy
-Effective Date: 2025-07-13
+Effective Date: 2026-01-29
 
-This Privacy Policy explains how SW Coast Path+ ("we," "us," or "Service Provider") collects, uses, and protects your information when you use our mobile application ("Application").
+This Privacy Policy explains how the SW Coast Path+ App ("we," "us," or "Service Provider") collects, uses, and protects your information when you use our mobile application ("Application").
 
 ## Information We Collect
 * User Authentication Data: When you register or log in, we collect information such as your unique user ID and email address via Firebase Authentication.
-* Strava Account Data: If you choose to connect your Strava account, we collect Strava access tokens and retrieve your activity data (e.g., GPS routes, activity types, timestamps) from Strava’s API.
 * User-Generated Content: We collect and store diary entries, including titles, content, dates, and optional location data you enter within the app.
 * Device and Usage Data: We may collect anonymized analytics data to help improve the Application.
 
 ## How We Use Your Information
-* To authenticate and identify you within the Application.
-* To synchronize and display your Strava activities.
-* To compute and show custom statistics based on your activity and diary data.
-* To store your diary entries securely.
-* To improve, maintain, and analyze the Application performance.
+We use your information only to operate and improve the Application, including:
+* Authenticating and identifying you within the Application
+* Storing and displaying your diary entries
+* Computing and presenting statistics related to your entries and activity
+* Maintaining, improving, and debugging the Application
+
+We do not sell your personal data or use your diary content for advertising.
 
 ## How We Store Your Data
-* Your data is stored securely in Google Firebase Firestore and Firebase Storage.
-* To implement Firebase Security Rules to ensure only you can access your personal data.
-* Strava tokens are stored encrypted within Firestore to securely maintain authorized access to your Strava data.
+* Your data is stored securely using Google Firebase services, including Firestore and Firebase Storage.
+* Firebase Security Rules are used to ensure that only you can access your personal data within the Application.
+* Data is encrypted in transit and at rest using industry-standard protections provided by Google Firebase.
 
 ## Third-Party Services
-* We use Firebase services (Authentication, Firestore, Storage, Cloud Functions) to operate and maintain the Application.
-* We use the Strava API to access your activity data once you authorize us.
-* No other third parties have access to your personal data unless legally required.
+We use the following third-party services to operate the Application:
+* Google Firebase (Authentication, Firestore, Storage, Cloud Functions)
+No other third parties have access to your personal data unless required by law.
 
 ## Admin Access
-* Authorized Service Provider staff may access your data for troubleshooting, support, abuse prevention, or legal compliance.
-* We take measures to limit and log such access to protect your privacy.
+* Your diary entries are private by default and visible only to you within the Application.
+* Authorized Service Provider staff may technically access stored data only when strictly necessary, such as for troubleshooting, support requests, abuse prevention, or legal compliance. We do not routinely review diary content and treat user-generated entries as highly sensitive.
 
 ## Your Rights and Choices
 * You can disconnect your Strava account at any time via the app, revoking our access to your Strava data.
-* You can delete your diary entries or request deletion of your account data by contacting us at flourishtechcoaching@gmail.com.
+* You can delete your diary entries or request deletion of your account data by contacting us at southwestcoastpathapp@gmail.com.
 * You have the right to request a copy of your data or to request correction or deletion in accordance with applicable laws.
 
 ## Security
-* We use industry-standard security measures to protect your data, including encryption at rest and in transit.
-* Access to your data is restricted via Firebase Security Rules and Google account protections.
+We use reasonable and industry-standard security measures to protect your data. While no system can be guaranteed to be 100% secure, we work to safeguard your information through access controls, encryption, and secure infrastructure.
 
 ## Children’s Privacy
 * The Application is not intended for children under 13 years old.
 * We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Privacy Policy
-We may update this Privacy Policy occasionally to reflect changes in our practices or legal requirements. We will notify you of any significant changes by updating this page.
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. Any updates will be posted on this page with a revised effective date.
 
 Contact Us
-If you have questions or concerns about this Privacy Policy or your data, please contact us at: flourishtechcoaching@gmail.com
+If you have questions or concerns about this Privacy Policy or your data, please contact us at: southwestcoastpathapp@gmail.com
