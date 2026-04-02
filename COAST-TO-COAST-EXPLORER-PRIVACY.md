@@ -1,7 +1,3 @@
-Here is your updated Privacy Policy with the app name changed to **Coast To Coast Explorer App** throughout:
-
----
-
 # Privacy Policy
 
 **Effective Date: 2026-03-17**
